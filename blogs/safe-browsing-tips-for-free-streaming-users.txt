@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Things you need to remember when visiting free movie streaming sites | Neocities</title>
+  <title>Things you need to remember when visiting free movie streaming sites | Flare Blogs</title>
 
   <!--Meta For No Index-->
   <meta name="robots" content="index">
